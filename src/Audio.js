@@ -27,7 +27,7 @@ const sounds = {
     18: 'pond.mp3',
     19: 'quietstring.mp3',
     20: 'song.mp3',
-    21: 'drone.mp3',
+    21: 'drone4.mp3',
     22: 'twinkle.mp3',
     23: 'zoo3.mp3',
     24: 'churchbells.mp3',
