@@ -36,13 +36,14 @@ const sounds = {
     27: 'restaurant.mp3',  
     28: 'fire.mp3',
     29: 'door.mp3',
-    30: '.mp3',
-    31: '.mp3',
-    32: '.mp3',
-    33: '.mp3',
-    34: '.mp3',
-    35: '.mp3',
-    36: '.mp3'
+    //change the below
+    30: 'twinkle.mp3',
+    31: 'quietstring.mp3',
+    32: 'cicadas.mp3',
+    33: 'Grunewald.mp3',
+    34: 'fire.mp3',
+    35: 'drone.mp3',
+    36: 'churchbells.mp3'
 }; 
 
 // Directory of the sound files. 
