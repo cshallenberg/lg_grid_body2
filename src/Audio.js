@@ -29,7 +29,7 @@ const sounds = {
     20: 'song.mp3',
     21: 'drone4.mp3',
     22: 'twinkle.mp3',
-    23: 'zoo3.mp3',
+    23: 'cicadas.mp3',
     24: 'churchbells.mp3',
     25: 'playing2.mp3',
     26: 'cheer.mp3',
